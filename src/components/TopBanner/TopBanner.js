@@ -1,13 +1,14 @@
 import React from 'react';
-import './HomeContainer.css'
+import './TopBanner.css'
+import EmojiContainer from '../EmojiContainer/EmojiContainer';
 
 
 const TopBanner = (props) => {
-  
+  m
   
   return (
       <div id='banner-container'> 
-       
+         <EmojiContainer />
       </div>
    )}
 
